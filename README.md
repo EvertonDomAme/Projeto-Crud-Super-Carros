@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    Dragon Ball characters guide
+    Super Carros Guide - CRUD
 </h1>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## Project
 
-This is a repository that contains an Dragon Ball characters guide presenting the base foundations of CRUD operation using React as Frontend interface to an existing Backend.
+This is a repository that contains an Super Cars guide presenting the base foundations of CRUD operation using React as Frontend interface to an existing Backend.
 
 ## Run
 
